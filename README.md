@@ -40,6 +40,11 @@ python renombrar_archivos_fecha.py
 
 Asegúrate de que la carpeta solo contenga archivos (no carpetas) y que tengas una copia de seguridad, ya que el renombrado es irreversible si no se controla.
 
+## 🔗 Archivo principal
+
+Puedes ver el archivo SQL completo aquí:  
+👉 [renombrar_archivos_fecha](./renombrar_archivos_fecha.py)
+
 ## 📄 Licencia
 
 Este script se distribuye con fines educativos y está bajo licencia MIT.
