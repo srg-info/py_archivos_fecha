@@ -6,9 +6,10 @@ from datetime import datetime
 
 # Obtener la fecha actual en formato YYYYMMDD
 fecha = datetime.now().strftime("%Y%m%d")
+#fecha = "20240710"  # <-- Cambia esto según la fecha que necesites
 
 # Ruta de la carpeta donde están los archivos (ajusta según tu caso)
-carpeta = "C:/archivos"
+carpeta = r"C:/archivos"
 
 # Recorrer todos los archivos en la carpeta
 for nombre in os.listdir(carpeta):
