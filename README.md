@@ -42,7 +42,7 @@ Asegúrate de que la carpeta solo contenga archivos (no carpetas) y que tengas u
 
 ## 🔗 Archivo principal
 
-Puedes ver el archivo SQL completo aquí:  
+Puedes ver el archivo .py completo aquí:  
 👉 [renombrar_archivos_fecha](./renombrar_archivos_fecha.py)
 
 ## 📄 Licencia
