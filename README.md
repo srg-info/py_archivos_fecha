@@ -42,8 +42,9 @@ Asegúrate de que la carpeta solo contenga archivos (no carpetas) y que tengas u
 
 ## 🔗 Archivo principal
 
-Puedes ver el archivo .py completo aquí:  
+Puedes ver el archivo .py completo aquí, ya esta alojada una nueva vercion del script:  
 👉 [renombrar_archivos_fecha](./renombrar_archivos_fecha.py)
+
 
 ## 📄 Licencia
 
