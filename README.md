@@ -51,4 +51,4 @@ Puedes ver el archivo .py completo aquí, ya esta alojada una nueva versión del
 Este script se distribuye con fines educativos y está bajo licencia MIT.
 
 ---
-© 2025 - Proyecto personal para automatización de tareas con Python.
+@ srg.info - Proyecto personal para automatización de tareas con Python.
