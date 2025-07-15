@@ -1,6 +1,6 @@
 # ======================================================
 #--  Proyecto: Archivos_Fecha
-#--  Autor: [srg.inf]
+#--  Autor: [srg.info]
 #--  Descripción: Srcript para renombrar archivo, en este caso con fecha.
 #-- ======================================================
 
