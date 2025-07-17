@@ -48,7 +48,7 @@ Puedes ver el archivo .py completo aquí, ya esta alojada una nueva versión del
 
 ## 📄 Licencia
 
-Este script se distribuye con fines educativos y está bajo licencia MIT.
+Este script se distribuye con fines educativos y está bajo licencia MIT. ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-@ srg.info - Proyecto personal para automatización de tareas con Python.
+##
+@ srg-info | Proyecto personal para automatización de tareas con Python.
