@@ -1,7 +1,8 @@
 # ======================================================
 #--  Proyecto: Archivos_Fecha
 #--  Autor: [srg.info]
-#--  Descripción: Srcript para renombrar archivo, en este caso con fecha.
+#--  Licencia: [MIT]
+#--  Descripción: Srcript para renombrar archivo, configurado para colocar una fecha.
 #-- ======================================================
 
 
